@@ -1,11 +1,4 @@
-#hero-home {
-  background-image: url('./assets/Kitesurfing.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
-#hero {
+#hero-project {
   min-height: 100vh;
   height: 100vh;
   display: flex;
@@ -21,10 +14,7 @@
   bottom: 0;
   right: 0;
   z-index: -1;
-  background-image: url('./assets/Kitesurfing.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+ 
 
   // Set position sticky so the jumbotron stays fixed while you scroll.
   position: sticky;
